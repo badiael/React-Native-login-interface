@@ -13,7 +13,7 @@ export default class Login extends Component {
     return (
       <KeyboardAvoidingView behavior="padding" style={styles.container}>
         <View style={styles.logoContainer}>
-          <Image style={styles.logo} source={require("../images/craft.jpeg")} />
+          <Image style={styles.logo} source={require("../images/craft.png")} />
           <Text style={styles.text}>Craftmen</Text>
         </View>
 
