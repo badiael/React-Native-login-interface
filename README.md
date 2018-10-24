@@ -4,4 +4,9 @@ in order to create a react native project, go to a folder, open a command prompt
 ```javascript 
 react-native init login
 ````
+once, the project is created, go into it and run it:
+```javascript 
+react-native run-android
+````
+
 
